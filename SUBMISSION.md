@@ -6,9 +6,11 @@ Azalea Rudolph 1828019
 
 5 pts   Your Travis CI dashboard showing a successful first build.
 
-
+![Screen Capture #2](images/dashboard1.png)
 
 5 pts   The section of the POM file showing the coordinates after you’ve changed them.
+
+![Screen Capture #3](images/pomChangedCoordinates.png)
 
 5 pts   Your Travis CI dashboard showing a successful build after your change of the groupID.
 
