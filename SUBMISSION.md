@@ -22,20 +22,20 @@ Azalea Rudolph 1828019
 
 5 pts   Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 
-![Screen Capture #3](images/groupIdChange.png)
+![Screen Capture #6](images/travisbuildfail.png)
 
 5 pts   Your Github repository with thereadme.mdfile selected showing the build failedstatus after the Travis CI build fails.
 
-![Screen Capture #3](images/groupIdChange.png)
+![Screen Capture #7](images/buildfail.png)
 
 5 pts   The section of the POM file showing the coordinates after you’ve fixed them.
 
-![Screen Capture #3](images/groupIdChange.png)
+![Screen Capture #8](images/pomrestored.png)
 
 5 pts   Your Travis CI dashboard showing the successful build after the breaking change hasbeen fixed.
 
-![Screen Capture #3](images/groupIdChange.png)
+![Screen Capture #9](images/travisSuccess.png)
 
 5 pts   Your Github repository with thereadme.mdfile selected showing the build successstatus after the Travis CI build has recovered
 
-![Screen Capture #3](images/groupIdChange.png)
+![Screen Capture #10](images/buildexit0.png)
